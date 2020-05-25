@@ -1,0 +1,8 @@
+custom level/
+ README.txt
+ atmosphere/
+ titles/
+ 0100000000010000/
+ romfs/
+ StageData/
+ RollingExStageMap.szs
